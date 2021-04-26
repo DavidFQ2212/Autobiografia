@@ -1,0 +1,57 @@
+/*FLores Quiñones David*/
+body{
+	background-image: url("images/fondo2.jpg");
+	color: #fff;
+}
+div{
+	display: inline-block;
+}
+h1{
+	background-image: transparent;
+	font-family: 'Zen Dots', cursive;
+	box-shadow: 2px 3px 8px 5px #2DD1F9;
+	border-radius: 15%;
+	padding: 1em 1em;
+	display: inline-block;
+	position: absolute; 
+	left: 6.5em;
+	top: -.5em;
+	text-shadow: 2px 3px 3px #2DD1F9;
+
+	
+}
+
+
+p{
+	font-family: 'New Tegomin', serif;
+	text-shadow: .5px .3px 2px #2DD1F9;
+
+}
+.text1{
+	position: relative;
+	left: 12.875em;
+	top: -1.8em;
+	width: 35em;
+	height: 72px;
+
+
+}
+.DAVID{
+	position: relative;
+	top: 4em;
+	border-radius: 15%;
+	border-bottom: #fff solid 2px ;
+	border-right: #fff solid 2px;
+	box-shadow: 2px 3px 8px 5px #2DD1F9;
+	opacity: 1;
+
+
+
+}
+.navegador{
+	display: inline-block;
+	padding: 10px;
+	border-radius: 15%;
+	box-shadow: 2px 3px 8px 5px #2DD1F9;
+	margin: 10px;
+}
